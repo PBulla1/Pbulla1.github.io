@@ -1,8 +1,7 @@
 # Education Template
 - layout: left
   name: Illinois Institute of Technology
-  dates: 2018-present |
-  gpa: 3.77/4.0
+  dates: 2018-present 
   qualification: M S in Information Technology and Management (Data Management)
   quote: >
     "Illinois Tech stands at the crossroads of exploration and innovation, advancing Chicago and the world".
@@ -11,8 +10,7 @@
 
 - layout: left
   name: B V Bhoomaraddi College of Engineering and Technology
-  dates: 2013-2017 |
-  GPA: 3.66/4.0
+  dates: 2013-2017 
   qualification: B E in Instrumentation Technology
   quote: >
     "The B. V. Bhoomaraddi College of Engineering and Technology (BVBCET), believes in kindling the spirit of this unique and creative discipline in every student who enters its portals" 
