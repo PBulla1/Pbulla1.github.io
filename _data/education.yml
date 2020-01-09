@@ -1,18 +1,17 @@
 # Education Template
 - layout: left
   name: Illinois Institute of Technology
-  dates: 2018-present
+  dates: 2018-present |
   gpa: 3.77/4.0
   qualification: M S in Information Technology and Management (Data Management)
   quote: >
     "Illinois Tech stands at the crossroads of exploration and innovation, advancing Chicago and the world".
-    
-    
-    |Courses: Data Analytics, Data Warehousing, Data Mining, Database Management, Rich Internet Applications, Object Oriented Modeling and System Design, Java, Project Management
+  description: | # this will include new lines to allow paragraphs
+    *Courses*: Data Analytics, Data Warehousing, Data Mining, Database Management, Rich Internet Applications, Object Oriented Modeling and System Design, Java, Project Management
 
 - layout: left
   name: B V Bhoomaraddi College of Engineering and Technology
-  dates: 2013-2017
+  dates: 2013-2017 |
   GPA: 3.66/4.0
   qualification: B E in Instrumentation Technology
   quote: >
