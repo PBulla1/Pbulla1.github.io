@@ -28,12 +28,12 @@
   description: | # this will include new lines to allow paragraphs
       
       **Contributions**
-      
-        Designed an end-to-end sales data warehouse using Pentaho DI and performed various transformations on the data (Row Normalizer, Database Lookup, if field value is null) 
-	
-        Designed a database using Star Schema and built a multi-dimensional cube using Mondrian. 
-        
-        Configured the Pentaho BI server to deploy reports by creating a database connection in Pentaho Enterprise Console for central usage. 
-        
-        Also, conducted analysis using the inbuilt Saiku Analytics Plugin and created an interactive dashboard using Tableau to demonstrate the results using pie chart, bar graphs, data blending feature and bubble charts. 
-
+       Designed an end-to-end sales data warehouse using Pentaho DI and performed various transformations on the data (Row Normalizer, Database Lookup, if field value is null)
+       
+       Designed a database using Star Schema and built a multi-dimensional cube using Mondrian.
+       
+       Configured the Pentaho BI server to deploy reports by creating a database connection in Pentaho Enterprise Console for central usage. 
+       
+       Also, conducted analysis using the inbuilt Saiku Analytics Plugin and created an interactive dashboard using Tableau to demonstrate the results using pie chart, bar graphs, data blending feature and bubble charts. 
+     
+     
