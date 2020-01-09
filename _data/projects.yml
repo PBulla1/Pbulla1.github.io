@@ -11,9 +11,29 @@
       
       **Contributions**
       
-      1. Built model using past credit card transactions with the knowledge of the ones that turned out to be fraud and then used it to identify whether a new transaction is fraudulent or not.
+       Built model using past credit card transactions with the knowledge of the ones that turned out to be fraud and then used it to identify whether a new transaction is fraudulent or not.
       
-      1. Applied Sampling techniques (Under Sampling and SMOTE) to resolve the imbalanced issue where 99.83% of the transactions in the data set were not fraudulent while only 0.17% were fraudulent. 
+       Applied Sampling techniques (Under Sampling and SMOTE) to resolve the imbalanced issue where 99.83% of the transactions in the data set were not fraudulent while only 0.17% were fraudulent. 
       
-      1. Used Precision, Recall and F1-score to evaluate the results.
+       Used Precision, Recall and F1-score to evaluate the results.
+
+- layout: top-middle
+  name: End to End Data Warehouse for a Retail Store
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+    Have you ever used a credit card at a store only to be declined? Or have the payments been blocked because you were charged a higher amount. Credit Card Fraud is a wide-ranging term for theft and fraud committed using a credit Card or any similar payment mechanism as a fraudulent source of funds in a transaction.Despite the introduction of secure chip technology, credit card fraud remains a top concern for banks and financial institutions. A report published by “Nilson” shows that global credit card fraud losses equaled $22.8 billion in 2016.  
+  
+  description: | # this will include new lines to allow paragraphs
+      
+      **Contributions**
+      
+        Designed an end-to-end sales data warehouse using Pentaho DI and performed various transformations on the data (Row Normalizer, Database Lookup, if field value is null) 
+	
+        Designed a database using Star Schema and built a multi-dimensional cube using Mondrian. 
+        
+        Configured the Pentaho BI server to deploy reports by creating a database connection in Pentaho Enterprise Console for central usage. 
+        
+        Also, conducted analysis using the inbuilt Saiku Analytics Plugin and created an interactive dashboard using Tableau to demonstrate the results using pie chart, bar graphs, data blending feature and bubble charts. 
 
