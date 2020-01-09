@@ -17,4 +17,30 @@
      - Update IIT International Affairs and ASEE-International Division websites using Drupal and WordPress respectively
 
 
+# Experience template
+- layout: left
+  company: AJ Calling
+  link: http://ajcalling.com/
+  job_title: Business Development Manager
+  dates: 2017-2018
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+      **Responsibilities**
+       
+     •	Reviewed customer feedback and suggested process improvements which increased customer satisfaction rate by 30%
+     
+     •	Designed and executed macros to automate data entry inputs
+     
+     •	Generated monthly reports to show the top vendors and the areas needing improvements using Excel and PowerPoint.
+     
+     •	Collaborated with the front-end developing team to build the company's website using HTML and CSS
+     
+     •	Brought potential clients on board; presided over meetings
+
+
+
+
+
 
