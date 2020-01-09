@@ -6,7 +6,10 @@
   #quote: >
     Have you ever used a credit card at a store only to be declined? Or have the payments been blocked because you were charged a higher amount. Credit Card Fraud is a wide-ranging term for theft and fraud committed using a credit Card or any similar payment mechanism as a fraudulent source of funds in a transaction.Despite the introduction of secure chip technology, credit card fraud remains a top concern for banks and financial institutions. A report published by “Nilson” shows that global credit card fraud losses equaled $22.8 billion in 2016.  
   description: | # this will include new lines to allow paragraphs
-      - Built model using past credit card transactions with the knowledge of the ones that turned out to be fraud and then used it to identify whether a new transaction is fraudulent or not.
-      - Applied Sampling techniques (Under Sampling and SMOTE) to resolve the imbalanced issue where 99.83% of the transactions in the data set were not fraudulent while only 0.17% were fraudulent. 
-      - Used Precision, Recall and F1-score to evaluate the results.
+      
+      Built model using past credit card transactions with the knowledge of the ones that turned out to be fraud and then used it to identify whether a new transaction is fraudulent or not.
+      
+      Applied Sampling techniques (Under Sampling and SMOTE) to resolve the imbalanced issue where 99.83% of the transactions in the data set were not fraudulent while only 0.17% were fraudulent. 
+      
+      Used Precision, Recall and F1-score to evaluate the results.
 
