@@ -4,8 +4,8 @@
   link: https://www.iit.edu/
   job_title: Student Assistant
   dates: 2018-present
-  #quote: >
-   #Short description of the company (optional)
+  quote: >
+   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     - Create reports to analyze student program data and international agreements using Salesforce and Excel (pivot tables, sorting and filters)
 
