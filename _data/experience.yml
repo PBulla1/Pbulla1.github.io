@@ -7,11 +7,11 @@
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    - Create reports to analyze student program data and international agreements using Salesforce and Excel (pivot tables, sorting and filters)
+     Create reports to analyze student program data and international agreements using Salesforce and Excel (pivot tables, sorting and filters)
 
-    - Troubleshoot admission and registration problems using Banner
+     Troubleshoot admission and registration problems using Banner
     
-    - Update IIT International Affairs and ASEE-International Division websites using Drupal and WordPress respectively
+     Update IIT International Affairs and ASEE-International Division websites using Drupal and WordPress respectively
 
 
 
