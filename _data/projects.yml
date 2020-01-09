@@ -9,9 +9,11 @@
   
   description: | # this will include new lines to allow paragraphs
       
-      Built model using past credit card transactions with the knowledge of the ones that turned out to be fraud and then used it to identify whether a new transaction is fraudulent or not.
+      **Contributions**
       
-      Applied Sampling techniques (Under Sampling and SMOTE) to resolve the imbalanced issue where 99.83% of the transactions in the data set were not fraudulent while only 0.17% were fraudulent. 
+      - Built model using past credit card transactions with the knowledge of the ones that turned out to be fraud and then used it to identify whether a new transaction is fraudulent or not.
       
-      Used Precision, Recall and F1-score to evaluate the results.
+      - Applied Sampling techniques (Under Sampling and SMOTE) to resolve the imbalanced issue where 99.83% of the transactions in the data set were not fraudulent while only 0.17% were fraudulent. 
+      
+      - Used Precision, Recall and F1-score to evaluate the results.
 
