@@ -70,7 +70,7 @@
   
   description: | # this will include new lines to allow paragraphs
       
-    **Contributions:**
+     **Contributions:**
       Designed a management system that manages the information of payments and provides details of all the advertisement categories and its customers. 
       
       Designed it using SQL Database leveraging on ER modeling and Dimensional Modeling techniques. 
