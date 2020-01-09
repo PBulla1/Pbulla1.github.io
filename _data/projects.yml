@@ -61,23 +61,6 @@
        Also used predict() function to predict the variables that affected the most and RMSE (Root mean square error) to check the accuracy of the prediction.
        
 - layout: top-middle
-  name: Advertising Database Management System 
-  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    
-    Have you ever used a credit card at a store only to be declined? Or have the payments been blocked because you were charged a higher amount. Credit Card Fraud is a wide-ranging term for theft and fraud committed using a credit Card or any similar payment mechanism as a fraudulent source of funds in a transaction.Despite the introduction of secure chip technology, credit card fraud remains a top concern for banks and financial institutions. A report published by “Nilson” shows that global credit card fraud losses equaled $22.8 billion in 2016.  
-  
-  description: | # this will include new lines to allow paragraphs
-      
-     **Contributions:**
-      Designed a management system that manages the information of payments and provides details of all the advertisement categories and its customers. 
-      
-      Designed it using SQL Database leveraging on ER modeling and Dimensional Modeling techniques. 
-      
-      Also, optimized the SQL Queries.
-
-- layout: top-middle
   name: Interactive Analysis Report and Dashboard for Ted Talks using Power BI
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
